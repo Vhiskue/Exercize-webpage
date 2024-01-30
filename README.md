@@ -1,2 +1,3 @@
 # Exercize-webpage
-Quick exercize
+Quick exercize about creating a recipe webpage
+
